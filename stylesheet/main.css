@@ -1,21 +1,32 @@
 .h-100 {
     height: 100%;
 }
+.m-0 {
+    margin: 0%;
+}
 .main {
     width: 80%;
     margin: auto;
+    position: relative;
+    top: 10rem;
 }
-.m-0 {
-    margin: 0%;
+.t-0 {
+    top: 0;
+}
+.vit {
+    color: #e4e3e4;
 }
 .hli {
     list-style: none;
     display: flex;
     justify-content: center;
     justify-content: space-between;
-    padding: 2rem;
+    padding: 3rem;
 }
 header {
     background-color: #AF171B;
-    top: 0%;
+}
+
+body {
+    background-color: #0b090a;
 }
