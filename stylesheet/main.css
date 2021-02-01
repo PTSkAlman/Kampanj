@@ -1,4 +1,21 @@
-body {
-    background-color: #0b090a;
-    color: #e4e3e4;
+.h-100 {
+    height: 100%;
+}
+.main {
+    width: 80%;
+    margin: auto;
+}
+.m-0 {
+    margin: 0%;
+}
+.hli {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 2rem;
+}
+header {
+    background-color: #AF171B;
+    top: 0%;
 }
