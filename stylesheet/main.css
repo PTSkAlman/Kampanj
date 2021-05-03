@@ -43,7 +43,7 @@ body {
     background-color: #0b090a;
 }
 .faqli {
-    list-style: none;
+    list-style: circle;
 }
 .column {
     float: left;
