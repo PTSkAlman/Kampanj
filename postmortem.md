@@ -22,4 +22,6 @@ Planerade min tid väldigt dåligt, jag la för mycket tid på små detaljer så
 
 Jag har lärt mig att det är mycket lättare för mig att arbeta när det finns en färdig design/skiss i förhand som man kan jobba utifrån, då när man väl sätter sig och kodar vet man exakt hur man ska göra. Jag har också lärt mig att det är viktigt att planera sin tid så man vet att man hinner med allting och efter man har gjort allt viktigt kan man gå tillbaka och förbättra smådetaljerna. Efter en komplettering har jag validerat min html och css och allt ser bra ut. Jag har även lagt till den rätta informationen som ska vara på sidan vilket gör slutresultatet bättre. Efter användartestet fick jag några synpunkter som jag behövde ändra på, den första var att göra menytexten större och ta bort skuggningen från menytexten. Testaren sa att layouten var bra och att det var en enkel sida att förstå och hitta information på.
 
+
+
 Slutprodukten är inte helt färdig, jag skulle vilja lägga till bakgrunden som vi hade i Figma. Sen har jag inte skrivit färdig kampanjen på engelskan, när jag gör det är det bara komma tillbaka och byta ut lorem ipsum. Den skulle också kunna bli bättre om jag hade gjort en användartest på någon utifrån min målgrupp och ev. ändra på något utifrån förslagen jag får.
